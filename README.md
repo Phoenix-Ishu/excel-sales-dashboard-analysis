@@ -3,10 +3,6 @@
 ## Overview
 This project is an interactive Excel dashboard created to analyze and visualize Vrinda Store sales data for the year 2022. The dashboard provides insights into sales performance, customer demographics, order status, sales channels, and state-wise sales distribution.
 
-## Dashboard Preview
-
-<img width="1000" alt="Vrinda Store Dashboard" src="YOUR_IMAGE_LINK_HERE">
-
 ---
 
 ## Key Insights
